@@ -8,5 +8,7 @@
 </head>
 <body>
 	无此权限，请联系超级管理员。或者返回<a href="/home">首页</a>
+
+	<a>尝试提交</a>
 </body>
 </html>
